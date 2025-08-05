@@ -3,8 +3,8 @@
 </div>
 
 <!-- 
-<img src="banner.png" alt="Esther Bermejo Banner" />
-**estherbermejo/estherbermejo** is a ✨ _special_ ✨ repository. Here you can see the magic
+[](img/banner.png)
+**estherbermejo/estherbermejo** is a ✨ _special_ ✨ repository. Here you can see the magic.
 
 Here are some ideas to get you started:
 
