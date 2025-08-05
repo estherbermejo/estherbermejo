@@ -1,5 +1,5 @@
 <div align = center>
-# Hi I'm Esther! 👋
+<h1> Hi I'm Esther! 👋 </h1>
 </div>
 
 Welcome to my personal GitHub space!  
