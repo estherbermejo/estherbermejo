@@ -1,7 +1,7 @@
 <div align = center>
 # Hi I'm Esther! 👋
 </div>
-<div align = justify>
+
 Welcome to my personal GitHub space!  
 I'm a **Biomedical Engineer** passionate about creating health-tech solutions through **code**, **design**, and a touch of creativity.  
 This is my ✨ special ✨ repository — a portfolio that brings together everything I've built, explored, and learned during my degree. And later on... my first professional projects!
@@ -50,7 +50,7 @@ Guide for all projects developed during the bachelor course of biomedical engine
 - [Implementation of security protocols for a medical records manager](https://github.com/estherbermejo/medical-records-manager)
 
 ---
-</div>
+
 ## 📊 GitHub Stats
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=estherbermejo&layout=compact&theme=default)
