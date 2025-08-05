@@ -2,6 +2,7 @@
 
 ![banner](img/banner.png)
 
+---
 Welcome to my personal GitHub space!  
 I'm a **Biomedical Engineer** passionate about creating health-tech solutions through **code**, **design**, and a touch of creativity.  
 This is my ✨ special ✨ repository — a portfolio that brings together everything I've built, explored, and learned during my degree.
@@ -17,7 +18,6 @@ This is my ✨ special ✨ repository — a portfolio that brings together every
 ---
 ## 📊 GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=estherbermejo&show_icons=true&theme=default)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=estherbermejo&layout=compact&theme=default)
 
 
