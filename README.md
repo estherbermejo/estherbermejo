@@ -1,4 +1,6 @@
-## Hi I'm Esther ! 👋
+<div align="center">
+  <h1 align=center> Hi I'm Esther! 👋 </h1>
+
 
 <!-- 
 <img src="banner.png" alt="Esther Bermejo Banner" />
