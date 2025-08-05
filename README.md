@@ -1,9 +1,24 @@
 # Hi I'm Esther! 👋
 
 ![banner](img/banner.png)
-**estherbermejo/estherbermejo** is a ✨ _special_ ✨ repository. Here you can see the magic.
 
-Here are some ideas to get you started:
+Welcome to my personal GitHub space!  
+I'm a **Biomedical Engineer** passionate about creating health-tech solutions through **code**, **design**, and a touch of creativity.  
+This is my ✨ special ✨ repository — a portfolio that brings together everything I've built, explored, and learned during my degree.
+
+## 🧠 About me
+
+🎓 Biomedical Engineering graduate from Universidad de Alicante (2021–2025)  
+💻 I enjoy building applications that solve real-world health problems  
+🚀 TFG: *Design of an avatar with VR for EMG feedback*  
+🏆 Gennera UA & Interuniversity Edition Winner  
+🔐 Cibersecurity (ANGEL platform – CNI), Google Marketing, and more!
+
+---
+## 📊 GitHub Stats
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=estherbermejo&show_icons=true&theme=default)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=estherbermejo&layout=compact&theme=default)
 
 
 ## Portfolio Esther Bermejo's projects
