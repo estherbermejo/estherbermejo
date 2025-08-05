@@ -24,7 +24,7 @@
 </ul>
 
 <h2>📁 Portfolio – Esther Bermejo's projects</h2>
-<p>Guide for all projects developed during the bachelor course of biomedical engineering</p>
+<p>Guide for all projects developed during the bachelor course of biomedical engineering at the University of Alicante between 2021-2025.</p>
 
 <h3>🎮 Body Track VR – EMG Biofeedback in Virtual Reality. Final degree project.</h3>
 <p><strong>Body Track VR</strong> is an interactive VR application that visualizes EMG (electromyographic) activity on a customizable 3D avatar. Users can select specific muscles and receive real-time biofeedback via color-coded overlays based on EMG intensity.</p>
