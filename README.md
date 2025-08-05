@@ -1,13 +1,13 @@
 <div align = center>
 <h1> Hi I'm Esther! 👋 </h1>
 </div>
-
+<p align=justify>
 Welcome to my personal GitHub space!  
 I'm a **Biomedical Engineer** passionate about creating health-tech solutions through **code**, **design**, and a touch of creativity.  
 This is my ✨ special ✨ repository — a portfolio that brings together everything I've built, explored, and learned during my degree. And later on... my first professional projects!
-![banner](img/banner.png)
-
-## 🧠 About me
+</p>
+<img src=img/banner.png>banner</img>
+<h2> 🧠 About me</h2>
 
 🎓 Biomedical Engineering graduate from Universidad de Alicante (2021–2025)  
 💻 I enjoy building applications that solve real-world health problems  
