@@ -69,7 +69,7 @@
 
 <h4>⚡ Security and confidentiality</h4>
 <ul>
-  <li><a href="https://github.com/estherbermejo/medical-records-manager">Implementation of security protocols for a medical records manager</a></li>
+  <li><a href="https://github.com/estherbermejo/medicals-records-manager">Implementation of security protocols for a medical records manager</a></li>
 </ul>
 
 <hr />
